@@ -120,9 +120,9 @@ _Больше примеров можно получить ознакомивш�
 ## Контакты
 <a name="contact"></a>
 
-Тимофей - [@MrTim2015](https://t.me/MrTim2015) - ya@timofejmelnikov.ru
+Андрей Марочкин - andreymarochkin2017@gmail.com
 <br/><br/>
-Гавриил - [@GavriilSamarin](https://t.me/GavriilSamarin) - samaringavriil@yandex.ru
+Ангелина Плешкова - samaringavriil@yandex.ru
 
 <!--Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)-->
 
