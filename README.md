@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Gavriil-S/Coursework-MedStyle">
-    <img src="https://drive.google.com/file/d/1whX6AZ9_nOMj7EcgwxqJMLNMXnEaM4cN/view?usp=sharing" alt="Logo" width="80" height="80">
+    <img src="https://stroicraft.ru/wp-content/uploads/github2/2.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">АИС “The Fluffy Doctor”</h3>
